@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C944D688-4652-4562-8A74-4B02D54BB594}</ProjectGuid>
+    <ProjectGuid>{4C519CCB-7EB5-4EA1-9FC5-1D55D288F4FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bai1</RootNamespace>
-    <AssemblyName>Bai1</AssemblyName>
+    <RootNamespace>BTTinhDaHinh</RootNamespace>
+    <AssemblyName>BTTinhDaHinh</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
