@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c519ccb-7eb5-4ea1-9fc5-1d55d288f4fe": {
+      "ProjectGuid": "4c519ccb-7eb5-4ea1-9fc5-1d55d288f4fe",
+      "DisplayName": "BTTinhDaHinh",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

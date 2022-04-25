@@ -1,0 +1,8 @@
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\bin\Debug\BTMang.exe.config
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\bin\Debug\BTMang.exe
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\bin\Debug\BTMang.pdb
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\obj\Debug\BTMang.csproj.AssemblyReference.cache
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\obj\Debug\BTMang.csproj.SuggestedBindingRedirects.cache
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\obj\Debug\BTMang.csproj.CoreCompileInputs.cache
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\obj\Debug\BTMang.exe
+E:\HọcKy3\C#\NopBaiTapC#\BTMang\BTMang\obj\Debug\BTMang.pdb
