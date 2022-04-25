@@ -1,0 +1,15 @@
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.csproj.AssemblyReference.cache
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.GeneratedMSBuildEditorConfig.editorconfig
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.AssemblyInfoInputs.cache
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.AssemblyInfo.cs
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.csproj.CoreCompileInputs.cache
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\bin\Debug\net6.0\Bai19.exe
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\bin\Debug\net6.0\Bai19.deps.json
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\bin\Debug\net6.0\Bai19.runtimeconfig.json
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\bin\Debug\net6.0\Bai19.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\bin\Debug\net6.0\ref\Bai19.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\bin\Debug\net6.0\Bai19.pdb
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\ref\Bai19.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.pdb
+E:\HọcKy3\C#\BaiTapCoBan2\Bai19\Bai19\obj\Debug\net6.0\Bai19.genruntimeconfig.cache

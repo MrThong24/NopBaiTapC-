@@ -1,0 +1,15 @@
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\bin\Debug\net6.0\Bai18.exe
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\bin\Debug\net6.0\Bai18.deps.json
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\bin\Debug\net6.0\Bai18.runtimeconfig.json
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\bin\Debug\net6.0\Bai18.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\bin\Debug\net6.0\ref\Bai18.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\bin\Debug\net6.0\Bai18.pdb
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.csproj.AssemblyReference.cache
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.GeneratedMSBuildEditorConfig.editorconfig
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.AssemblyInfoInputs.cache
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.AssemblyInfo.cs
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.csproj.CoreCompileInputs.cache
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\ref\Bai18.dll
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.pdb
+E:\HọcKy3\C#\BaiTapCoBan2\Bai18\Bai18\obj\Debug\net6.0\Bai18.genruntimeconfig.cache
